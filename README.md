@@ -61,5 +61,5 @@
 
 ***
 **2020.07.09**  
-1、复习K-means、EM、Apriori算法
+1、复习K-means、EM、Apriori算法  
 2、学习得到职业规划课程
